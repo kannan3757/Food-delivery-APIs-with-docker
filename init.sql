@@ -1,0 +1,5 @@
+CREATE DATABASE IF NOT EXISTS pizzas;
+
+use pizzas;
+
+FLUSH PRIVILEGES;
